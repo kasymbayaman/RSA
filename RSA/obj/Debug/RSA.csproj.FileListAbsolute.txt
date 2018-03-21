@@ -1,0 +1,15 @@
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\MainWindow.g.cs
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\App.g.cs
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA_MarkupCompile.cache
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA_MarkupCompile.lref
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\MainWindow.baml
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA.g.resources
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\baiaman\Documents\Visual Studio 2017\Projects\RSA\RSA\obj\Debug\RSA.pdb
